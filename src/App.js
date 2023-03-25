@@ -14,7 +14,7 @@ function App() {
     <Router>
       <Routes>
         {/* Home Page */}
-        <Route exact path="/" element={<Home />} />
+        <Route exact path="/resumebuilder-app" element={<Home />} />
 
 
         {/* Fill-Details Page */}
