@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/resumebuilder-app/static/css/main.4df1ff36.css",
+    "main.js": "/resumebuilder-app/static/js/main.61a68d03.js",
+    "static/js/498.00720f41.chunk.js": "/resumebuilder-app/static/js/498.00720f41.chunk.js",
+    "static/js/703.bbcdb4c8.chunk.js": "/resumebuilder-app/static/js/703.bbcdb4c8.chunk.js",
+    "static/js/598.a7ab2a9c.chunk.js": "/resumebuilder-app/static/js/598.a7ab2a9c.chunk.js",
+    "static/media/resume-template-three.png": "/resumebuilder-app/static/media/resume-template-three.7a4e3cbfc7f3bc3548e9.png",
+    "static/media/resume-template-two.png": "/resumebuilder-app/static/media/resume-template-two.689e9d9fab1b3fd144a8.png",
+    "static/media/resume-template-one.png": "/resumebuilder-app/static/media/resume-template-one.330ee2b597dd8829ac54.png",
+    "static/media/about.jpeg": "/resumebuilder-app/static/media/about.3b4de509529f71309832.jpeg",
+    "static/media/Logo1.png": "/resumebuilder-app/static/media/Logo1.9ced49d707d5b537fa98.png",
+    "index.html": "/resumebuilder-app/index.html",
+    "main.4df1ff36.css.map": "/resumebuilder-app/static/css/main.4df1ff36.css.map",
+    "main.61a68d03.js.map": "/resumebuilder-app/static/js/main.61a68d03.js.map",
+    "498.00720f41.chunk.js.map": "/resumebuilder-app/static/js/498.00720f41.chunk.js.map",
+    "703.bbcdb4c8.chunk.js.map": "/resumebuilder-app/static/js/703.bbcdb4c8.chunk.js.map",
+    "598.a7ab2a9c.chunk.js.map": "/resumebuilder-app/static/js/598.a7ab2a9c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4df1ff36.css",
+    "static/js/main.61a68d03.js"
+  ]
+}
