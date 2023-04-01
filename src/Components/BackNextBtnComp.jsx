@@ -26,4 +26,4 @@ function BackNextBtnComp(props) {
     )
 }
 
-export default BackNextBtnComp
+export default BackNextBtnComp;

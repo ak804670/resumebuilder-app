@@ -3,15 +3,15 @@ import React from 'react';
 import App from "./Pages/About";
 
 
-import { BrowserRouter as Router } from 'react-router-dom';
+import { BrowserRouter } from 'react-router-dom';
 
 
 
-test('renders react component', async () => {
+test('should render react component', async () => {
   render(
-    <Router>
+    <BrowserRouter>
       <App />
-    </Router>,
+    </BrowserRouter>,
   );
 
 

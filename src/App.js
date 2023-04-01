@@ -1,5 +1,5 @@
 import React from 'react'
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Home from "./Pages/Home"
 import CheckSelectedId from './Components/CheckSelectedId';
 import FillDetails from "./Pages/FillDetails"
@@ -7,11 +7,9 @@ import About from "./Pages/About"
 import MyResume from "./Pages/MyResumes"
 
 
-
-
 function App() {
   return (
-    <Router>
+    <BrowserRouter>
       <Routes>
         {/* Home Page */}
         <Route exact path="/resumebuilder-app" element={<Home />} />
@@ -32,7 +30,7 @@ function App() {
         <Route exact path="/MyResume" element={<MyResume />} />
 
       </Routes>
-    </Router>
+    </BrowserRouter>
 
   )
 }

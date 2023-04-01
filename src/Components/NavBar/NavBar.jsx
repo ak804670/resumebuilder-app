@@ -90,7 +90,7 @@ const NavBar = () => {
                                         position: "relative",
                                         top: "5px",
                                     }}>
-                                    <NavLink to="/" className="homeIcon">
+                                    <NavLink to="/resumebuilder-app" className="homeIcon">
                                         {" "}
                                         <img
                                             src={Logo}
@@ -103,7 +103,8 @@ const NavBar = () => {
                                 <Box sx={{ display: { xs: "none", sm: "block" } }}>
 
                                     <div className="Navlinks">
-                                        <NavLink to="/" className="nav-link" color="inherit">
+                                        <NavLink to="/resumebuilder-app
+" className="nav-link" color="inherit">
                                             Resume Templates
                                         </NavLink>
                                         <NavLink to="/MyResume" className="nav-link" color="inherit">
