@@ -69,12 +69,8 @@ export default function About() {
 
                             textAlign: "justify"
                         }}>
-                        <p>This resume builder web application is a powerful tool for creating professional, customized resumes. It allows users to quickly and easily create a professional resume that highlights their skills, qualifications, education, and experiences. This application is a great way for job seekers to stand out from the competition and improve their chances of getting hired.<br/>
-
-                        This resume builder web application has a user-friendly interface that makes it easy for users to navigate. The application guides users through the resume creation process, <br/>
-                        from choosing a template to filling out the sections of the resume.
-
-                        Overall, a resume builder app can help users save time and effort when creating a resume, and can also help them create a more polished and professional-looking document.</p>
+                        This resume builder web application is a powerful tool for creating professional, customized resumes. It allows users to quickly and easily create a professional resume that highlights their skills, qualifications, education, and experiences. This application is a great way for job seekers to stand out from the competition and improve their chances of getting hired.<br/>
+                        Overall, a resume builder app can help users save time and effort when creating a resume, and can also help them create a more polished and professional-looking document.
 
                     </Typography>
                     <Stack sx={{ width: 500, height: 400 }} >
