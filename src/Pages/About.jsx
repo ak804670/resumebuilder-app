@@ -69,9 +69,8 @@ export default function About() {
 
                             textAlign: "justify"
                         }}>
-                        A resume builder app is a software application that allows users to easily create, edit, and share professional resumes. These apps typically include a wide range of customizable templates, pre-written phrases and prompts, and tools for formatting, editing, and sharing resumes. <br />
-                        Some resume builder apps also include features such as the ability to import existing resumes, the ability to save resumes in multiple formats, and the ability to share resumes directly with potential employers. <br />
-                        Overall, a resume builder app can help users save time and effort when creating a resume, and can also help them create a more polished and professional-looking document.
+                       This resume builder web application is a powerful tool for creating professional, customized resumes. It allows users to quickly and easily create a professional resume that highlights their skills, qualifications, education, and experiences. This application is a great way for job seekers to stand out from the competition and improve their chances of getting hired.<br />
+                        Overall, This resume builder app can help users save time and effort when creating a resume, and can also help them create a more polished and professional-looking document.
 
                     </Typography>
                     <Stack sx={{ width: 500, height: 400 }} >
@@ -100,24 +99,28 @@ export default function About() {
                             style={{ cursor: "pointer" }}
                             onClick={linkdin}
                             sx={{ fontSize: "40px", paddingLeft: "15px" }}
+                            className="Linkedin"
                             color="primary"
                         />
                         <GithubIcon
                             onClick={gitHub}
                             style={{ cursor: "pointer" }}
                             sx={{ fontSize: "40px", paddingLeft: "15px" }}
+                            className="Github"
                             color="black"
                         />
                         <WhatsAppIcon
                             style={{ cursor: "pointer" }}
                             onClick={whatsapp}
                             sx={{ fontSize: "40px", paddingLeft: "15px" }}
+                            className="Whatsapp"
                             color="success"
                         />
                         <EmailIcon
                             style={{ cursor: "pointer" }}
                             onClick={Email}
                             sx={{ fontSize: "40px", paddingLeft: "15px" }}
+                            className="Email"
                             color="error"
                         />
 
