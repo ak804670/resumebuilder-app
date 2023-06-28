@@ -3,8 +3,18 @@
 ## Resume Builder :-
 A resume builder app is a tool that allows users to create, edit, and share professional resumes quickly and easily. The app typically includes a variety of templates and design options that can be customized to suit the user's needs, as well as features such as text editing, formatting, and the ability to import and export data. Some resume builder apps also include additional tools such as a cover letter builder, a portfolio creator, and the ability to track the progress of job applications. Overall, a resume builder app is an efficient and effective way to create a professional, polished resume that stands out to potential employers and helps users to secure job opportunities.
 
+<h3 align="center">
+  Resume Builder Website Home page preview- <br/>
+  <a href="
+https://ak804670.github.io/resumebuilder-app/" target="_blank"><img alt="Demo" src="./r-Img.png" /> </a>
+  Resume Builder Website add detials page-  <br/>
+   <a href="https://ak804670.github.io/template/FillDetails" target="_blank"><img alt="Demo" src="./r-Img2.png" /> </a>
 
+</h3>
 
+## Live link for project
+
+https://ak804670.github.io/resumebuilder-app/
 
 
 ## Available Pages
@@ -54,7 +64,19 @@ My resume page page stores all the resumes you have created and shows them. Each
 
 ### `ABOUT Page`
 
-About page contains some information about the benifits of this resume builder Application.
+1) About page contains some information about the benifits of this resume builder Application.
 
-About page contains some social media icon where the user can simply contact the developer of this web app.
-# reumebuilder BY Anish
+2) About page contains some social media icon where the user can simply contact the developer of this web app.
+
+
+## 🛠 Installation and Setup Instructions
+
+1. Installation: `npm install`
+
+2. In the project directory, you can run: `npm start`
+
+##
+<h4 align="center">Made with ❤️ from Anish</h4>
+<h4 align="center">Thank You</h4>
+
+
